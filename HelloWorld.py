@@ -1,5 +1,5 @@
 def fun1():
-    pass
+    print("Whatever you want")
 
 def fun2():
     pass
